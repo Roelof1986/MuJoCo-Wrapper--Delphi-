@@ -7,7 +7,7 @@ cmake_policy(SET CMP0135 NEW)
 set(DOWNLOAD_EXTRACT_TIMESTAMP TRUE)
 
 # --- pas dit pad aan ---
-set(MUJOCO_DIR "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER")
+set(MUJOCO_DIR "${CMAKE_CURRENT_SOURCE_DIR}")
 
 include_directories(${MUJOCO_DIR}/include)
 link_directories(${MUJOCO_DIR}/bin)
