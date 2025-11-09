@@ -1,0 +1,10 @@
+^C:\USERS\ROELOF\DESKTOP\DESKTOP_2_NOV2025\MUJOCO_WRAPPER\BUILD\CMAKEFILES\C55C94064BE343D210CD1BB57A3B53F5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER -BC:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/mujoco_delphi_wrapper.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,6 @@
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/CMakeFiles/mujoco_delphi_wrapper.dir
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir

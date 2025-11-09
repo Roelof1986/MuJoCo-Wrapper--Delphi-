@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/11c659af610cd6ddc13d6d1296179f9e/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/1c4623a9e0333ebd6279e5cd96b0dd8e/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

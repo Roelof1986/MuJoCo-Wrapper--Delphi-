@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\Release\mujoco_delphi_wrapper.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

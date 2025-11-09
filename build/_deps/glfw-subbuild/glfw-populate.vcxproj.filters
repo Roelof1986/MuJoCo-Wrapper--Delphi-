@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\0fcaf932a2d3aa6d3d5da620f9f3035a\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\0fcaf932a2d3aa6d3d5da620f9f3035a\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\0fcaf932a2d3aa6d3d5da620f9f3035a\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\0fcaf932a2d3aa6d3d5da620f9f3035a\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\0fcaf932a2d3aa6d3d5da620f9f3035a\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\0fcaf932a2d3aa6d3d5da620f9f3035a\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\0fcaf932a2d3aa6d3d5da620f9f3035a\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\0fcaf932a2d3aa6d3d5da620f9f3035a\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\1c4623a9e0333ebd6279e5cd96b0dd8e\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\11c659af610cd6ddc13d6d1296179f9e\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Roelof\Desktop\DESKTOP_2_NOV2025\MuJoCo_WRAPPER\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8621F8C5-FAA4-3D50-A701-0E95EC7118FE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

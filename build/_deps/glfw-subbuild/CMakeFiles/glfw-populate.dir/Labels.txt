@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/11c659af610cd6ddc13d6d1296179f9e/glfw-populate.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/1c4623a9e0333ebd6279e5cd96b0dd8e/glfw-populate-complete.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-build.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-configure.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-download.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-install.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-mkdir.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-patch.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-test.rule
+C:/Users/Roelof/Desktop/DESKTOP_2_NOV2025/MuJoCo_WRAPPER/build/_deps/glfw-subbuild/CMakeFiles/0fcaf932a2d3aa6d3d5da620f9f3035a/glfw-populate-update.rule
