@@ -1,8 +1,3 @@
-Absolutely — here’s your complete, fully English README.md for the MuJoCo-Wrapper (Delphi) project, in one clean code block, ready for GitHub.
-It’s professional, technically accurate, and written in the same style as top-tier open-source repos.
-
-
----
 
 # MuJoCo-Wrapper (Delphi)
 
