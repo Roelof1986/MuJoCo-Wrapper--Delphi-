@@ -10,7 +10,7 @@ A lightweight **C++ → Delphi bridge** for the [MuJoCo](https://mujoco.org) phy
 This wrapper exposes a compact `MJW_*` API so Delphi applications can run **physics, rendering, and joint control** directly through a C++ DLL.
 
 <p align="center">
-  <img src="docs/screenshot_humanoid.png" width="600" alt="Humanoid simulation with MuJoCo-Wrapper (Delphi)">
+  <img src="https://github.com/Roelof1986/MuJoCo-Wrapper--Delphi-Demos/blob/main/Win64/Release/model/humanoid.png" width="600" alt="Humanoid simulation with MuJoCo-Wrapper (Delphi)">
 </p>
 
 ---
